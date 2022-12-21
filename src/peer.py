@@ -85,4 +85,4 @@ if __name__ == '__main__':
     # test
     # test1221 16:50
     # test1221 17:00
-    print(1)
+    print(2)
