@@ -82,3 +82,7 @@ if __name__ == '__main__':
 
     config = bt_utils.BtConfig(args)
     peer_run(config)
+    # test
+    # test1221 16:50
+    # test1221 17:00
+    print(1)
